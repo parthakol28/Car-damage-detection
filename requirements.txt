@@ -1,4 +1,4 @@
 streamlit==1.44.0
 Pillow==11.1.0
 torch==2.6.0
-torchvision==0.20.0+cv118
+torchvision==0.21.0
